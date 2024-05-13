@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "2a67ecf5-177c-4b78-bba3-5486612bacf4")
 	(paper "A4")
+	(title_block
+		(title "InnoKB-x1")
+		(date "2024-05-13")
+		(rev "0")
+		(company "Black Mesa Research Facility")
+	)
 	(lib_symbols
 		(symbol "Connector:AVR-ISP-6"
 			(pin_names
@@ -5518,7 +5524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 204.47 74.93 0)
 			(effects
 				(font
@@ -6236,7 +6242,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 187.96 49.53 0)
 			(effects
 				(font
@@ -7047,7 +7053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 119.38 114.3 0)
 			(effects
 				(font
@@ -7331,7 +7337,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 119.38 111.76 0)
 			(effects
 				(font
@@ -7400,7 +7406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 242.57 100.33 0)
 			(effects
 				(font
@@ -7469,7 +7475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 204.47 72.39 0)
 			(effects
 				(font

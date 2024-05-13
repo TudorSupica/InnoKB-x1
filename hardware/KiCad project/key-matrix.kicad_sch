@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "966c784e-5bb1-4b21-9175-b45d41d73b90")
 	(paper "A4")
+	(title_block
+		(title "InnoKB-x1")
+		(date "2024-05-13")
+		(rev "0")
+		(company "Black Mesa Research Facility")
+	)
 	(lib_symbols
 		(symbol "Device:D"
 			(pin_numbers hide)
