@@ -3522,7 +3522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Matias_6.25u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
 			(at 129.54 128.27 0)
 			(effects
 				(font
